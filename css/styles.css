@@ -13,3 +13,9 @@ footer a {
   margin: 10px;
   color: rgb(46, 14, 38);
 }
+.croissant-photo {
+  max-width: 100%;
+  display: block;
+  margin: 30px 0;
+  border-radius: 10px;
+}
