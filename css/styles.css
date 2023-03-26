@@ -1,7 +1,15 @@
-h1 {
+h1,
+p {
   color: black;
   text-align: center;
 }
 body {
   background: hwb(292 56% 32%);
+}
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 10px;
+  color: rgb(46, 14, 38);
 }
